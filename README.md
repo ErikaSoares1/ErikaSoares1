@@ -28,4 +28,3 @@ Olá, eu sou a Erika Soares 1
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaSoares1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-![snake gif](https://github.com/ErikaSoares1/ErikaSoares1/blob/output/github-contribution-grid-snake.svg)
