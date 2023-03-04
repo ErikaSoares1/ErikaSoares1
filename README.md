@@ -1,10 +1,10 @@
 Olá, eu sou a Erika Soares 1
 
 
-- 🔭 Hoje trabalho com front end.
-- 🌱 Estudando JS e Java.
+- 🌱 Atualmente estou estudando no Instituto Tecnológico de Barueri, cursando T.I.
 - 📫 Contate-me no email: @contatoerikasoares1@gmail.com
 - 😄 Pronomes: ela/dela
+- 📍 Estou apendendo diversas linguagens, algumas como:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
