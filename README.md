@@ -4,7 +4,7 @@ Olá, eu sou a Erika Soares 1
 - 🌱 Atualmente estou estudando no Instituto Tecnológico de Barueri, cursando T.I.
 - 📫 Contate-me no email: @contatoerikasoares1@gmail.com
 - 😄 Pronomes: ela/dela
-- 📍 Estou apendendo diversas linguagens, algumas como:
+- 📍 Estou aprendendo diversas linguagens, algumas como:
 
 
 <div style="display: inline_block"><br>
